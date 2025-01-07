@@ -1,2 +1,2 @@
 # welcome
-this is our project
+this is our website
